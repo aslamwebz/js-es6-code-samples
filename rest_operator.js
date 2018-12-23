@@ -1,0 +1,16 @@
+//Rest Operator 
+
+
+function add(...nums){
+
+	//console.log(arguments);
+	console.log(nums);
+
+
+}
+
+
+add(4,5,6,7,8);
+
+
+
